@@ -1,0 +1,10 @@
+*{margin:0;padding:0;box-sizing:border-box;font-family:'Segoe UI',sans-serif}
+body{background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);min-height:100vh;padding:20px}
+.container{max-width:700px;margin:0 auto}
+header{text-align:center;color:white;margin-bottom:30px}
+header h1{font-size:3rem}
+.card{background:rgb(217, 133, 133);padding:25px;border-radius:15px;box-shadow:0 10px 25px rgba(0,0,0,0.15);margin-bottom:20px}
+.card h2,.card h3{color:#5a4fcf;margin-bottom:15px}
+button{background:#667eea;color:white;border:none;padding:12px 25px;border-radius:8px;font-size:1.1rem;cursor:pointer;width:100%;margin-top:15px}
+button:hover{background:#5a4fcf}
+#display{background:#f7f7ff;padding:15px;border-radius:10px;border-left:4px solid #667eea}
